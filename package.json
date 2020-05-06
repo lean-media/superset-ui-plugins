@@ -1,5 +1,5 @@
 {
-  "name": "@superset-ui/plugins-monorepo",
+  "name": "@lean-media/superset-ui-plugins-monorepo",
   "version": "0.0.0-master",
   "description": "Superset UI Plugins",
   "private": true,
