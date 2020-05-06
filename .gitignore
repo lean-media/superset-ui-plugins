@@ -21,15 +21,15 @@ logs/
 build/
 coverage/
 dist/
-esm/
-lib/
+#esm/ # Exclude the compiled files because I don't have time to find a better way right now
+#lib/
 public/
 node_modules/
 tmp/
 
 # Custom
-*.map
-*.min.js
+#*.map # Exclude the compiled files because I don't have time to find a better way right now
+#*.min.js
 test-changelog.md
 
 # Configs (provided by Nimbus)
